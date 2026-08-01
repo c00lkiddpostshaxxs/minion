@@ -192,6 +192,6 @@ poka nod nono {
 
 ## Built by
 
-[c00lkiddpostshaxxs](https://github.com/c00lkiddpostshaxxs) with a passion for minions! 🍌
+[c00lkiddpostshaxxs](https://github.com/c00lkiddpostshaxxs) and [Claude](https://claude.ai) with a passion for minions! 🍌
 
 Enjoy! 🎉
