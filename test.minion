@@ -1,0 +1,66 @@
+# Minion Language Test Suite
+
+# Variables and Print
+despicable x = 42
+stampa(x)
+
+# Strings
+despicable name = stringo(100)
+stampa(name)
+
+# Boolean
+despicable flag = sidu
+poka flag {
+    stampa(1)
+}
+
+# Arrays
+despicable nums = [10, 20, 30, 40, 50]
+stampa(nums[0])
+stampa(lungo(nums))
+stampa(suma(nums))
+stampa(maximo(nums))
+
+# Loops
+por i = 0 todu 3 {
+    stampa(i)
+}
+
+# While
+despicable j = 0
+whileo j < 3 {
+    stampa(j)
+    despicable j = j + 1
+}
+
+# If/Else
+poka x > 40 {
+    stampa(99)
+} nadaboba {
+    stampa(88)
+}
+
+# Break
+por k = 0 todu 10 {
+    poka k == 3 {
+        smash
+    }
+    stampa(k)
+}
+
+# Functions
+workyo add(a, b) {
+    tornadu a + b
+}
+stampa(add(5, 3))
+
+# Boolean operators
+poka sidu e sidu {
+    stampa(1)
+}
+poka nono ro sidu {
+    stampa(2)
+}
+poka nod nono {
+    stampa(3)
+}
