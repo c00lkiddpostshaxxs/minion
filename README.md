@@ -5,16 +5,21 @@ A fun minion-themed programming language interpreter built in Go! 🍌
 ## Installation
 
 ```bash
-cd minion
-go mod init minion
-go build -o minion
+bash <(curl -fsSL https://github.com/c00lkiddpostshaxxs/minion/releases/download/v1.0.0/install.sh)
+```
+
+## Uninstallation
+```bash
+bash <(curl -fsSL https://github.com/c00lkiddpostshaxxs/minion/releases/download/v1.0.0/uninstall.sh)
 ```
 
 ## Usage
 
 ```bash
 ./minion <filename.minion>
+```
 or
+```bash
 minion <filename.minion>
 ```
 
